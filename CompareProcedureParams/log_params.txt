@@ -1,0 +1,34 @@
+                   p_sPRIM: 
+                   p_sDSCR: 
+                   p_nOPTP: NULL
+                   p_sOPIN: 
+                   p_sBREC: 0
+                   p_sBPAY: 0
+                   p_sPRSD: 0
+                   p_sPART: 2
+                   p_nADFG: 0
+                   p_nSM42: NULL
+                   p_nSM41: NULL
+                   p_nNew: 1
+                   p_sFKOL: 
+                   p_sVIDM: 0
+                   p_sIDCD: 
+                   p_nFORM: NULL
+                   p_sFACC: 
+                   p_nCURR: NULL
+                   p_nSUMM: NULL
+                   p_nSUMC: NULL
+                   p_nSUME: NULL
+                   p_nTSID: 1
+                   p_nOEID: 532
+                   p_dtOPDT: NULL
+                   p_sSEID: 
+                   p_nCUCN: NULL
+                   p_dtDATS: 05.02.2015 0:00:00
+                   p_dtRESD: NULL
+                   p_nTERR: NULL
+                   p_nDECI: NULL
+                   p_nNPDC: NULL
+                   p_sMETL: 
+                   p_nSTAT: NULL
+                   p_dtDPDC: NULL 
